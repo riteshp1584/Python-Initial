@@ -10,3 +10,4 @@ df = pd.read_csv("nba.csv")
 
 print(df['Name'])
 
+print(df)
