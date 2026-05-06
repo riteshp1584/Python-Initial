@@ -10,5 +10,7 @@ df = pd.read_csv("nba.csv")
 
 print(df[:10])
 
+print(df)
+
 # Works successfully until here
 
