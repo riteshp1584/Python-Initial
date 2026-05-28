@@ -36,6 +36,9 @@ builder.add_edge("analyzer", END)      # The "Exit"
 # 5. Compile and Run
 graph = builder.compile()
 
+# ASCII diagram to show flows
+graph.get_graph().print_ascii()
+
 # Drop off the folder
 initial_state = {"input_text": "LangGraph is great"}
 final_output = graph.invoke(initial_state)
