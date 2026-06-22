@@ -1,4 +1,4 @@
-# Exercises in NumPy
+# Exercises in NumPy 
 
 import numpy as np
 
