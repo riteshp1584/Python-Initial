@@ -30,8 +30,6 @@ print(sorted(this_list_2))
 
 '''
 
-
-
 list_2 = [i for i in range(1, 11)]
 
 list_2.remove(5)
