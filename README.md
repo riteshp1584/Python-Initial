@@ -20,5 +20,5 @@ This repository is designed as a learning playground — perfect for experimenti
 ## 🛠️ Installation
 Clone the repository:
 ```bash
-git clone https://github.com/riteshp1584/Basic_1.git
-cd Basic_1
+git clone https://github.com/riteshp1584/Python-Initial.git
+cd Python-Initial
