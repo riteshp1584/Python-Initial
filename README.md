@@ -1,7 +1,7 @@
-# Basic_1
+# Python Initial
 
 ## 📖 Overview
-**Basic_1** is a collection of beginner-friendly Python scripts and experiments with [LangChain](ca://s?q=Introduction_to_LangChain). It also includes a sample dataset (`nba.csv`) for hands-on practice with [pandas](ca://s?q=Learn_about_Pandas_library) and data analysis.  
+**Python Initial** is a collection of beginner-friendly Python scripts and experiments with [LangChain](ca://s?q=Introduction_to_LangChain). It also includes a sample dataset (`nba.csv`) for hands-on practice with [pandas](ca://s?q=Learn_about_Pandas_library) and data analysis.  
 This repository is designed as a learning playground — perfect for experimenting with syntax, logic, and libraries while building confidence in Python.
 
 ## 📂 Project Structure
