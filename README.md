@@ -1,24 +1,40 @@
-# Python Initial
+# Python-Initial
 
-## 📖 Overview
-**Python Initial** is a collection of beginner-friendly Python scripts and experiments with [LangChain](ca://s?q=Introduction_to_LangChain). It also includes a sample dataset (`nba.csv`) for hands-on practice with [pandas](ca://s?q=Learn_about_Pandas_library) and data analysis.  
-This repository is designed as a learning playground — perfect for experimenting with syntax, logic, and libraries while building confidence in Python.
+Python-Initial is the **foundational repository** where early experiments, scripts, and learning modules in Python were developed.  
+It served as the starting point for exploring **Generative AI** and **LangChain**, before transitioning into the dedicated [Python-Agentic](https://github.com/riteshp1584/Python-Agentic) repository.
 
-## 📂 Project Structure
-- **Beginners/** → Introductory Python exercises for foundational concepts  
-- **LangChain_1/** → Experiments with LangChain for building AI-driven applications  
-- **nba.csv** → Sample dataset for practicing data manipulation with pandas  
-- **Py1.py** → Example Python script demonstrating basic usage of pandas with `nba.csv`  
-- **README.md** → Documentation for the project  
+---
 
-## 🚀 Features
-- Practice **[Python basics](ca://s?q=Python_basics_for_beginners)** with simple scripts  
-- Explore **[LangChain experiments](ca://s?q=LangChain_beginner_examples)**  
-- Work with real-world data using pandas  
-- Expandable structure for future projects  
+## 📌 Purpose
+- Acted as the initial workspace for Python projects and AI experiments.
+- Hosted the `LangChain_1` folder, which has now been migrated to **Python-Agentic** for continued development.
+- Preserves the history of early prototypes and learning exercises.
 
-## 🛠️ Installation
-Clone the repository:
-```bash
-git clone https://github.com/riteshp1584/Python-Initial.git
-cd Python-Initial
+---
+
+## 📂 Repository Status
+- **Active modules**: Contains beginner-level Python scripts and initial experiments.
+- **Migrated modules**:  
+  - `LangChain_1` → moved to [Python-Agentic](https://github.com/riteshp1584/Python-Agentic)  
+    (removed here to keep this repo clean and focused).
+
+---
+
+## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/riteshp1584/Python-Initial.git
+   cd Python-Initial
+
+🧩 Key Notes
+
+This repo is primarily for archival and reference of initial Python work.
+
+For ongoing development and agentic workflows, see Python-Agentic.
+
+🤝 Contributing
+
+This repository is not actively maintained for new features.
+
+However, improvements to documentation or beginner scripts are welcome.
+
